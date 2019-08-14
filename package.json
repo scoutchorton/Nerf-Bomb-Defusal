@@ -1,0 +1,11 @@
+{
+  "name": "nerf_bomb_defusal",
+  "version": "1.0.0",
+  "description": "Host and client for a Counter Strike Bomb Defusal minigame for Nerf that uses a mobile device (client) as a bomb and a computer (host) for sounds and backend to the game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
